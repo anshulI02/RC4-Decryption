@@ -1,1 +1,0 @@
-Warning (10268): Verilog HDL information at decode_using_key_controller.sv(36): always construct contains both blocking and non-blocking assignments File: C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/4th Year/2024S/CPEN 311/Lab 4/Lab4_template_de1soc/template_de1soc/decode_using_key_controller.sv Line: 36
