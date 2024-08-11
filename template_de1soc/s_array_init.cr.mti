@@ -1,0 +1,15 @@
+{C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/4th Year/2024S/CPEN 311/Lab 4/Lab4_template_de1soc/template_de1soc/s_array_init.sv} {1 {vlog -work work -sv -stats=none {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/4th Year/2024S/CPEN 311/Lab 4/Lab4_template_de1soc/template_de1soc/s_array_init.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module s_array_init
+
+Top level modules:
+	s_array_init
+
+} {} {}} {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/4th Year/2024S/CPEN 311/Lab 4/Lab4_template_de1soc/template_de1soc/tb_s_array_init.sv} {1 {vlog -work work -sv -stats=none {C:/Users/HP/Desktop/STS+UBC_Stuff/UBC Academics/4th Year/2024S/CPEN 311/Lab 4/Lab4_template_de1soc/template_de1soc/tb_s_array_init.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_s_array_init
+
+Top level modules:
+	tb_s_array_init
+
+} {} {}}
